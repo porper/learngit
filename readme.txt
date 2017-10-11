@@ -6,4 +6,4 @@ Creating a new branch is quick and simple.
 add merge.
 My name is wangpei.
 My word is finished.
-Test error || success.
+Test error or successs.
